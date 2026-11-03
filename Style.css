@@ -1,0 +1,30 @@
+
+
+@font-face {
+    font-family: "VdMIc";
+    src: url("https://cdn.jsdelivr.net/gh/villedesmerveilles/VdMIc@main/VdMIc.woff2") format("woff2"),
+        url("https://cdn.jsdelivr.net/gh/villedesmerveilles/VdMIc@main/VdMIc.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+
+
+.VdMIconline-shop:before {
+    content: "\f000";
+}
+.VdMIcvip:before {
+    content: "\f001";
+}
+.VdMIcteam:before {
+    content: "\f002";
+}
+.VdMIcpremium-quality:before {
+    content: "\f003";
+}
+.VdMIcmember-card:before {
+    content: "\f004";
+}
+.VdMIcaward:before {
+    content: "\f005";
+}
