@@ -9,6 +9,19 @@
     font-display: block;
 }
 
+.icon, [class^="VdMIc"], [class*=" VdMIc"] {
+    /* Use !important to prevent extensions from overriding this font. */
+    font-family: "VdMIc" !important;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
 
 .VdMIconline-shop:before {
     content: "\f000";
