@@ -23,6 +23,42 @@
     -moz-osx-font-smoothing: grayscale;
 }
 
+.VdMIccalendar:before {
+    content: "\f006";
+}
+.VdMIcart:before {
+    content: "\f007";
+}
+.VdMIclearning:before {
+    content: "\f008";
+}
+.VdMIcbriefcase:before {
+    content: "\f009";
+}
+.VdMIccopy-writing:before {
+    content: "\f00a";
+}
+.VdMIcconversation:before {
+    content: "\f00b";
+}
+.VdMIcevent:before {
+    content: "\f00c";
+}
+.VdMIcexperiential:before {
+    content: "\f00d";
+}
+.VdMIcbadge:before {
+    content: "\f00e";
+}
+.VdMIcpeople:before {
+    content: "\f00f";
+}
+.VdMIcsocial-media:before {
+    content: "\f010";
+}
+.VdMIcclosed:before {
+    content: "\f011";
+}
 .VdMIconline-shop:before {
     content: "\f000";
 }
